@@ -1,0 +1,12 @@
+# Dataset
+imgs/
+*.csv
+!driver_imgs_list.csv
+*.h5
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.best_model.hdf5
+.ipynb_checkpoints/
